@@ -1,0 +1,26 @@
+# Python bytecode & caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Synthetic training CSV (not needed at runtime since flag_model.joblib is included)
+data/*.csv
+
+# Hugging Face / Torch local caches
+.cache/
+huggingface/
+
+# Streamlit & IDE settings
+.streamlit/secrets.toml
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
