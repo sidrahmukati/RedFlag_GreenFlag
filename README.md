@@ -64,5 +64,9 @@ boundary_respect	Respecting Space	Respecting consent and space vs. pressuring bo
 safety_catchall	Safe Space Energy	Trustworthy environment vs. controlling or manipulative behavior
 ```
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://redflaggreenflag.streamlit.app/)
+
+**Live App:** [redflaggreenflag.streamlit.app](https://redflaggreenflag.streamlit.app/)
+
 
 
