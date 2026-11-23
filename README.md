@@ -68,5 +68,7 @@ safety_catchall	Safe Space Energy	Trustworthy environment vs. controlling or man
 
 **Live App:** [redflaggreenflag.streamlit.app](https://redflaggreenflag.streamlit.app/)
 
+## Disclaimer: This app provides automated ML and zero-shot NLI estimates for informational and educational purposes only. It is not clinical, psychological, medical, or legal advice, and should not be used to diagnose behavior or make high-stakes personal decisions.
+
 
 
