@@ -33,8 +33,8 @@ Paste any relationship story in plain English, and the pipeline extracts structu
 Setup & Local Execution
 1. Clone and Install Dependencies
 ```Bash
-git clone https://github.com/sidrahmukati/RedFlag-GreenFlag.git
-cd RedFlag-GreenFlag
+git clone https://github.com/sidrahmukati/RedFlag_GreenFlag.git
+cd RedFlag_GreenFlag
 pip install -r requirements.txt
 ```
 
@@ -62,4 +62,5 @@ accountability	Owning Their Mess	Sincere apologies vs. blame-shifting ("you're t
 boundary_respect	Respecting Space	Respecting consent and space vs. pressuring boundaries
 safety_catchall	Safe Space Energy	Trustworthy environment vs. controlling or manipulative behavior
 ```
+
 
