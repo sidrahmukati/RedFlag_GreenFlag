@@ -50,8 +50,9 @@ python generate_data.py
 python train_model.py
 ```
 
-The 9 Behavioral Pillars
+## The 9 Behavioral Pillars
 Pillar Key	UI Label	What It Measures
+```bash
 public_respect	Public Flex vs. Public Diss	Dignity and respect vs. public humiliation or mockery
 public_private_consistency	Texting vs. IRL Consistency	Consistent affection vs. hot-and-cold ghosting
 social_integrity	Gossip & Two-Faced Radar	Loyalty and honesty vs. talking behind people's backs
@@ -62,5 +63,6 @@ accountability	Owning Their Mess	Sincere apologies vs. blame-shifting ("you're t
 boundary_respect	Respecting Space	Respecting consent and space vs. pressuring boundaries
 safety_catchall	Safe Space Energy	Trustworthy environment vs. controlling or manipulative behavior
 ```
+
 
 
